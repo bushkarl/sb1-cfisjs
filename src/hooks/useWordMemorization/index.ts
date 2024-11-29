@@ -1,0 +1,1 @@
+export { useWordMemorization } from './useWordMemorization';

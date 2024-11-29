@@ -1,0 +1,28 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "ephemeral",
+      "pronunciation": "/əˈfem(ə)rəl/",
+      "definition": "lasting for a very short time",
+      "audioUrl": "https://audio.oxforddictionaries.com/en/mp3/ephemeral_gb_1.mp3",
+      "definitionAudioUrl": "https://audio.oxforddictionaries.com/en/mp3/ephemeral_definition_gb_1.mp3"
+    },
+    {
+      "id": 2,
+      "word": "serendipity",
+      "pronunciation": "/ˌserənˈdipədē/",
+      "definition": "the occurrence and development of events by chance in a happy or beneficial way",
+      "audioUrl": "https://audio.oxforddictionaries.com/en/mp3/serendipity_gb_1.mp3",
+      "definitionAudioUrl": "https://audio.oxforddictionaries.com/en/mp3/serendipity_definition_gb_1.mp3"
+    },
+    {
+      "id": 3,
+      "word": "ubiquitous",
+      "pronunciation": "/yo͞oˈbikwədəs/",
+      "definition": "present, appearing, or found everywhere",
+      "audioUrl": "https://audio.oxforddictionaries.com/en/mp3/ubiquitous_gb_1.mp3",
+      "definitionAudioUrl": "https://audio.oxforddictionaries.com/en/mp3/ubiquitous_definition_gb_1.mp3"
+    }
+  ]
+}

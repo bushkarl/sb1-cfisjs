@@ -1,0 +1,196 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "a",
+      "pronunciation": "ā",
+      "definition": "张大嘴巴 ā , ā , ā",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.1a.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99aaa.wav"
+    },
+    {
+      "id": 2,
+      "word": "o",
+      "pronunciation": "o",
+      "definition": "公鸡打鸣 o o o",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.2o.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ooo.wav"
+    },
+    {
+      "id": 3,
+      "word": "e",
+      "pronunciation": "e",
+      "definition": "一只白鹅 e e e",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.3e.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99eee.wav"
+    },
+    {
+      "id": 4,
+      "word": "i",
+      "pronunciation": "i",
+      "definition": "牙齿对齐 i i i",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.4i.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99iii.wav"
+    },
+    {
+      "id": 5,
+      "word": "u",
+      "pronunciation": "u",
+      "definition": "一只乌鸦 u u u",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.5u.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99uuu.wav"
+    },
+    {
+      "id": 6,
+      "word": "ü",
+      "pronunciation": "ü",
+      "definition": "u 上加点ü ü ü",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.6yu.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99vvv.wav"
+    },
+    {
+      "id": 7,
+      "word": "ai",
+      "pronunciation": "ai",
+      "definition": "挨在一起αi αi αi",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.7ai.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99aiaiai.wav"
+    },
+    {
+      "id": 8,
+      "word": "ei",
+      "pronunciation": "ei",
+      "definition": "用力擂鼓 ei ei ei",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.8ei.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99eieiei.wav"
+    },
+    {
+      "id": 9,
+      "word": "ui",
+      "pronunciation": "ui",
+      "definition": "围上围巾 ui ui ui",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.9ui.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99uiuiui.wav"
+    },
+    {
+      "id": 10,
+      "word": "ao",
+      "pronunciation": "ao",
+      "definition": "一件棉袄αo αo αo",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.10ao.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99aoaoao.wav"
+    },
+    {
+      "id": 11,
+      "word": "ou",
+      "pronunciation": "ou",
+      "definition": "海鸥海鸥 ou ou ou",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.11ou.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ououou.wav"
+    },
+    {
+      "id": 12,
+      "word": "iu",
+      "pronunciation": "iu",
+      "definition": "小小邮票 iu iu iu",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.12iu.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99iuiuiu.wav"
+    },
+    {
+      "id": 13,
+      "word": "ie",
+      "pronunciation": "ie",
+      "definition": "椰树椰树 ie ie ie",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.13ie.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ieieie.wav"
+    },
+    {
+      "id": 14,
+      "word": "üe",
+      "pronunciation": "üe",
+      "definition": "弯弯月牙üe üe üe",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.14yue.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99veveve.wav"
+    },
+    {
+      "id": 15,
+      "word": "er",
+      "pronunciation": "er",
+      "definition": "一只耳朵 er er er",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.15er.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ererer.wav"
+    },
+    {
+      "id": 16,
+      "word": "an",
+      "pronunciation": "an",
+      "definition": "天安门 αn αn αn",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.16an.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ananan.wav"
+    },
+    {
+      "id": 17,
+      "word": "en",
+      "pronunciation": "en",
+      "definition": "手摁图钉 en en en",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.17en.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99enenen.wav"
+    },
+    {
+      "id": 18,
+      "word": "in",
+      "pronunciation": "in",
+      "definition": "树阴树阴 in in in",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.18in.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ininin.wav"
+    },
+    {
+      "id": 19,
+      "word": "un",
+      "pronunciation": "un",
+      "definition": "一只蚊子 un un un",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.19un.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ununun.wav"
+    },
+    {
+      "id": 20,
+      "word": "ün",
+      "pronunciation": "ün",
+      "definition": "一朵白云ün ün ün",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.20yun.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99yunyunyun.wav"
+    },
+    {
+      "id": 21,
+      "word": "ang",
+      "pronunciation": "ang",
+      "definition": "小山羊αng αng αng",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.21ang.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99angangang.wav"
+    },
+    {
+      "id": 22,
+      "word": "eng",
+      "pronunciation": "eng",
+      "definition": "大风车 eng eng eng",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.22eng.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99engengeng.wav"
+    },
+    {
+      "id": 23,
+      "word": "ing",
+      "pronunciation": "ing",
+      "definition": "猫头鹰 ing ing ing",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.23ing.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99inginging.wav"
+    },
+    {
+      "id": 24,
+      "word": "ong",
+      "pronunciation": "ong",
+      "definition": "小闹钟 ong ong ong",
+      "audioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.24ong.wav",
+      "definitionAudioUrl":"https://prod-cr-vod.oss-cn-hangzhou.aliyuncs.com/res/manage-1234/study/pyym/%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91-%E9%9F%B5%E6%AF%8D24.99ongongong.wav"
+    }
+  ]
+}
